@@ -10,7 +10,7 @@
 
 1. clone 模板至本地
    ```
-   clone git@github.com:purple4pur/react-electron-templete.git
+   git clone git@github.com:purple4pur/react-electron-templete.git
    cd ./react-electron-templete
    ```
 2. 安装依赖库

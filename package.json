@@ -12,9 +12,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "preview": "electron .",
+    "pview": "electron .",
     "pack-win": "electron-packager . MyReactElectronApp --asar --overwrite --platform=win32 --arch=ia32 --prune=true --out=release-builds --ignore=^/node_modules$ --ignore=^/src$ --ignore=^/public$ --ignore=^/package-lock.json$",
-    "prepreview": "react-scripts build",
+    "prepview": "react-scripts build",
     "prepack-win": "react-scripts build"
   },
   "eslintConfig": {

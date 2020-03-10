@@ -32,7 +32,7 @@
 
 在浏览器启动本地调试，实时响应更新，与 React 一样。
 
-#### `npm run preview`
+#### `npm run pview`
 
 预览桌面应用，不会实时更新。
 
@@ -40,7 +40,7 @@
 
 打包为 windows x86 桌面应用，生成在 `release-builds` 文件夹内。
 
-#### `npm run prepreview` 及 `npm run prepack-win`
+#### `npm run prepview` 及 `npm run prepack-win`
 
 与 React 的 build 脚本一致，仅用作预览和打包的先行步骤，一般无需手动执行。
 

@@ -1,0 +1,9 @@
+body {
+  width     : 500px;
+  height    : 400px;
+  margin    : 0;
+  padding   : 0;
+  box-sizing: border-box;
+  overflow  : hidden;
+  outline   : red dashed 1px;
+}

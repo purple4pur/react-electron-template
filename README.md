@@ -6,18 +6,25 @@
 
 ## 使用说明
 
+使用前请仔细阅读此 [说明](https://purple4pur.com/post/18) 。
+
 ### 本地搭建
 
 1. clone 模板至本地
+
    ```
    git clone git@github.com:purple4pur/react-electron-templete.git
    cd ./react-electron-templete
    ```
+
 2. 安装依赖库
+
    ```
    npm i
    ```
+
 3. 安装 electron-packager
+
    ```
    # 全局安装（推荐）
    npm i -S electron-packager -g

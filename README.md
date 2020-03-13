@@ -1,4 +1,4 @@
-# react-electron-templete
+# react-electron-template
 
 简单易用的基于 React 的 Electron 应用模板。
 
@@ -13,8 +13,8 @@
 1. clone 模板至本地
 
    ```
-   git clone git@github.com:purple4pur/react-electron-templete.git
-   cd ./react-electron-templete
+   git clone git@github.com:purple4pur/react-electron-template.git
+   cd ./react-electron-template
    ```
 
 2. 安装依赖库
